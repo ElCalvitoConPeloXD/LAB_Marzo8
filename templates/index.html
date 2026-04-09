@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Simulación Monte Carlo</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <h1>Estimación de π (Monte Carlo)</h1>
+
+    <form method="POST">
+        <input type="number" name="iteraciones" placeholder="Número de iteraciones" required>
+        <button type="submit">Calcular</button>
+    </form>
+
+    {% if pi %}
+        <h2>Valor aproximado: {{ pi }}</h2>
+    {% endif %}
+</body>
+</html>
