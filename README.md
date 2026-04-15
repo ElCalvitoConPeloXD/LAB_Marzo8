@@ -120,7 +120,7 @@ LAB_Marzo8/
 | Rol | Nombre | GitHub |
 |-----|--------|--------|
 | Integrante 1 | Mateo David Guerra | [@ElCalvitoConPeloXD](https://github.com/ElCalvitoConPeloXD) |
-| Integrante 2 | Gian Marco Saldarriaga | *(usuario del compañero)* |
+| Integrante 2 | Gian Marco Saldarriaga | [@GianMs-Tb]() |
 
 Unisabaneta / Calidad de software: Laboratorio de Calidad de software — marzo 2026.
 
